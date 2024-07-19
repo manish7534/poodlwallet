@@ -436,7 +436,7 @@ public abstract class EthereumNetworkBase implements EthereumNetworkRepositoryTy
         {
             put(MAINNET_ID, R.drawable.ic_token_eth);
             put(CLASSIC_ID, R.drawable.ic_icons_network_etc); //classic_logo
-            put(POODL_MAINNET_ID, R.drawable.ic_icons_network_gnosis); //chaiwala
+            put(POODL_MAINNET_ID, R.drawable.ic_launcher); //chaiwala
             put(GOERLI_ID, R.drawable.ic_goerli);
             put(BINANCE_MAIN_ID, R.drawable.ic_binance_logo);
             put(BINANCE_TEST_ID, R.drawable.ic_icons_tokens_bnb_testnet);
